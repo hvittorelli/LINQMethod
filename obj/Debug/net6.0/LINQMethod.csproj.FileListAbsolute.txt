@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\LINQMethod\LINQMethod\bin\Debug\net6.0\LINQMethod.exe
+C:\Users\missh\source\repos\CIT195\LINQMethod\LINQMethod\bin\Debug\net6.0\LINQMethod.deps.json
+C:\Users\missh\source\repos\CIT195\LINQMethod\LINQMethod\bin\Debug\net6.0\LINQMethod.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\LINQMethod\LINQMethod\bin\Debug\net6.0\LINQMethod.dll
+C:\Users\missh\source\repos\CIT195\LINQMethod\LINQMethod\bin\Debug\net6.0\LINQMethod.pdb
+C:\Users\missh\source\repos\CIT195\LINQMethod\LINQMethod\obj\Debug\net6.0\LINQMethod.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\LINQMethod\LINQMethod\obj\Debug\net6.0\LINQMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\LINQMethod\LINQMethod\obj\Debug\net6.0\LINQMethod.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\LINQMethod\LINQMethod\obj\Debug\net6.0\LINQMethod.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\LINQMethod\LINQMethod\obj\Debug\net6.0\LINQMethod.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\LINQMethod\LINQMethod\obj\Debug\net6.0\LINQMethod.dll
+C:\Users\missh\source\repos\CIT195\LINQMethod\LINQMethod\obj\Debug\net6.0\refint\LINQMethod.dll
+C:\Users\missh\source\repos\CIT195\LINQMethod\LINQMethod\obj\Debug\net6.0\LINQMethod.pdb
+C:\Users\missh\source\repos\CIT195\LINQMethod\LINQMethod\obj\Debug\net6.0\LINQMethod.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\LINQMethod\LINQMethod\obj\Debug\net6.0\ref\LINQMethod.dll
